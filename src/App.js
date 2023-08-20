@@ -25,7 +25,7 @@ function App() {
 
 const Home = () => (
   <div>
-    <h1>Welcome!</h1>
+    <h1>Welcome, Trainers!</h1>
     <img src={welcomeImage} alt='' style={{width: 1100, height: 600}}/>
   </div>
 );
